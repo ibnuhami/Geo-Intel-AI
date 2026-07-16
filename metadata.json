@@ -1,0 +1,6 @@
+{
+  "name": "GeoIntel AI",
+  "description": "Platform Geospatial Intelligence untuk pemetaan aset, validasi data berbasis AI, dan analitik wilayah di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
